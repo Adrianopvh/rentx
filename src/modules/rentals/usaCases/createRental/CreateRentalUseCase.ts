@@ -1,4 +1,4 @@
-import { IDateProvider } from "@shared/container/providers/DateProvider/IDateProvider";
+import { IDateProvider } from "../../../../shared/container/providers/DateProvider/IDateProvider";
 
 import { Rental } from "../../../../modules/rentals/infra/typeorm/entities/Rental";
 import { AppError } from "../../../../shared/errors/AppError";
